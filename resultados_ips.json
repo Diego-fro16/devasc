@@ -1,12 +1,102 @@
 [
     {
-        "ip": "8.8.4.4",
+        "ip": "8.8.8.8",
         "pais": "United States",
         "region": "Virginia",
         "isp": "Google LLC",
         "coordenadas": {
             "latitud": 39.03,
             "longitud": -77.5
+        }
+    },
+    {
+        "ip": "1.1.1.1",
+        "pais": "Australia",
+        "region": "Queensland",
+        "isp": "Cloudflare, Inc",
+        "coordenadas": {
+            "latitud": -27.4766,
+            "longitud": 153.0166
+        }
+    },
+    {
+        "ip": "208.67.222.222",
+        "pais": "United States",
+        "region": "California",
+        "isp": "Cisco OpenDNS, LLC",
+        "coordenadas": {
+            "latitud": 37.7642,
+            "longitud": -122.3993
+        }
+    },
+    {
+        "ip": "185.199.108.153",
+        "pais": "United States",
+        "region": "California",
+        "isp": "Fastly, Inc.",
+        "coordenadas": {
+            "latitud": 37.7823,
+            "longitud": -122.391
+        }
+    },
+    {
+        "ip": "142.250.64.78",
+        "pais": "United States",
+        "region": "New York",
+        "isp": "Google LLC",
+        "coordenadas": {
+            "latitud": 40.7128,
+            "longitud": -74.006
+        }
+    },
+    {
+        "ip": "157.240.20.35",
+        "pais": "United States",
+        "region": "District of Columbia",
+        "isp": "Facebook, Inc.",
+        "coordenadas": {
+            "latitud": 38.9072,
+            "longitud": -77.0369
+        }
+    },
+    {
+        "ip": "172.217.3.110",
+        "pais": "United States",
+        "region": "New York",
+        "isp": "Google LLC",
+        "coordenadas": {
+            "latitud": 40.7128,
+            "longitud": -74.006
+        }
+    },
+    {
+        "ip": "151.101.1.69",
+        "pais": "United States",
+        "region": "California",
+        "isp": "Fastly, Inc.",
+        "coordenadas": {
+            "latitud": 37.7642,
+            "longitud": -122.3993
+        }
+    },
+    {
+        "ip": "13.107.21.200",
+        "pais": "Canada",
+        "region": "Quebec",
+        "isp": "Microsoft Corporation",
+        "coordenadas": {
+            "latitud": 45.5019,
+            "longitud": -73.5674
+        }
+    },
+    {
+        "ip": "104.244.42.1",
+        "pais": "United States",
+        "region": "California",
+        "isp": "Twitter Inc.",
+        "coordenadas": {
+            "latitud": 37.7766,
+            "longitud": -122.417
         }
     }
 ]
