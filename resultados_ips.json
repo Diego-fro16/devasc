@@ -1,0 +1,102 @@
+[
+    {
+        "ip": "8.8.8.8",
+        "pais": "United States",
+        "region": "Virginia",
+        "isp": "Google LLC",
+        "coordenadas": {
+            "latitud": 39.03,
+            "longitud": -77.5
+        }
+    },
+    {
+        "ip": "1.1.1.1",
+        "pais": "Australia",
+        "region": "Queensland",
+        "isp": "Cloudflare, Inc",
+        "coordenadas": {
+            "latitud": -27.4766,
+            "longitud": 153.0166
+        }
+    },
+    {
+        "ip": "208.80.154.224",
+        "pais": "United States",
+        "region": "California",
+        "isp": "Wikimedia Foundation Inc.",
+        "coordenadas": {
+            "latitud": 37.7892,
+            "longitud": -122.402
+        }
+    },
+    {
+        "ip": "200.33.146.193",
+        "pais": "Mexico",
+        "region": "Mexico City",
+        "isp": "UNINET",
+        "coordenadas": {
+            "latitud": 19.4196,
+            "longitud": -99.1428
+        }
+    },
+    {
+        "ip": "216.58.211.174",
+        "pais": "United States",
+        "region": "California",
+        "isp": "Google LLC",
+        "coordenadas": {
+            "latitud": 37.4043,
+            "longitud": -122.0748
+        }
+    },
+    {
+        "ip": "23.45.67.89",
+        "pais": "Australia",
+        "region": "New South Wales",
+        "isp": "Akamai International B.V.",
+        "coordenadas": {
+            "latitud": -33.8688,
+            "longitud": 151.209
+        }
+    },
+    {
+        "ip": "45.33.32.156",
+        "pais": "United States",
+        "region": "California",
+        "isp": "Akamai Technologies, Inc.",
+        "coordenadas": {
+            "latitud": 37.5625,
+            "longitud": -122.0004
+        }
+    },
+    {
+        "ip": "104.244.42.1",
+        "pais": "United States",
+        "region": "California",
+        "isp": "Twitter Inc.",
+        "coordenadas": {
+            "latitud": 37.7766,
+            "longitud": -122.417
+        }
+    },
+    {
+        "ip": "201.174.61.129",
+        "pais": "Mexico",
+        "region": "Nuevo Le\u00f3n",
+        "isp": "Transtelco Inc",
+        "coordenadas": {
+            "latitud": 25.9113,
+            "longitud": -100.1862
+        }
+    },
+    {
+        "ip": "187.216.8.70",
+        "pais": "Mexico",
+        "region": "Chihuahua",
+        "isp": "Uninet S.A. de C.V.",
+        "coordenadas": {
+            "latitud": 26.2128,
+            "longitud": -106.585
+        }
+    }
+]
